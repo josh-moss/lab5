@@ -1,0 +1,6 @@
+This week in sdv503 we had our first online class back after the break, we were talking about array methods. 
+I have had quite a lot of problems this week with understanding and following the lessons though the online class's 
+as  I find it easier to learn in person. Although I feel this way, I still enjoy learning JavaScript.
+
+This week I found it especially hard because I had trouble figuring out how to achieve lab5, but after doing some reach
+overall, I'm sort of happy with my progress but still need more practice with understanding array methods.
